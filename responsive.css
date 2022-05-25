@@ -1,0 +1,49 @@
+@media screen and (max-width : 1330px){
+    nav{
+        flex-direction: column;
+    }
+    .logo{
+        
+        justify-content: center;
+        margin: 10px 0px;
+    }
+    nav ul{
+        justify-content: center;
+    }
+    .searxh{
+        justify-content: center;
+    }
+    .Login{
+        width: 32vw;
+        justify-content: center;
+        margin: 7px;
+    }
+    .card-items{
+        overflow: scroll;
+    }
+    .card-items img{
+        width: 10vw;
+        justify-content: center;
+        flex-direction: row;
+    } 
+    .card0{
+        width: 80vw;
+        height: 48vh;
+       
+    
+    }
+    .card1{
+        
+        width: 80vw;
+        height: 55vh;
+        
+    
+    }
+    .card2{
+       width: 80vw;
+        height: 51vh;
+    }
+    .slider{
+        width: 50vw;
+    }
+}
